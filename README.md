@@ -25,5 +25,7 @@ The Bank Management System Java project aims to streamline banking operations, e
 of the banking institution by leveraging technology to automate processes and ensure accuracy in transactions and data management.
 
 Technologies Used: Core Java (Swing & AWT)
+
 Database Used: MySQL
+
 IDE used: Netbeans
